@@ -1,4 +1,4 @@
-# escp-cci.github.io
+# agautham-cic.github.io
 
 An extension to ESCP's [Competitive Intelligence Center (CIC)](https://competitiveintelligencecenter.com/), built under the guidance of Prof. Daniel Rouach and Prof. Patrice Santi.
 
