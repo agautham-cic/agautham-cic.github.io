@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /all-posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Resource Center"
+    url: /resource-center/
