@@ -21,9 +21,12 @@ url: "https://agautham-cic.github.io/" # the base hostname & protocol for your s
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
 defaults: 
     values: 
